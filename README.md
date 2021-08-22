@@ -1,5 +1,7 @@
 ## 模板元编程实现选择排序
 
+大佬博客：https://www.cnblogs.com/ink19/p/cpp_template_select_sort.html
+
 感觉难度系数有点高，主要是不理解为什么要用那种方式来定义类。
 
 据说与函数式编程相关，有机会去了解一下。
