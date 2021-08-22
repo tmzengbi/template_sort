@@ -101,8 +101,6 @@ struct Sortwork {
 
 typedef Sortwork<1,4,2,1,78,2,4,54,11,4> result;
 
-// https://www.cnblogs.com/ink19/p/cpp_template_select_sort.html
-
 int main() {
     for(int i=0;i<10;++i)
         cout<<result::x[i]<<" ";
